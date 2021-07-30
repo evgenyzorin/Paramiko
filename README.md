@@ -1,10 +1,16 @@
 # Paramiko
-Getting switch configuration using Paramiko:
+Getting <b>switch</b> and <b>router</b> configuration using Paramiko:
+
+#### Router
+- Interfaces status
+
+#### Switch
 - System status
-- Port status
-- VLAN status
+- Ports status
+- VLANs status
 
 ### Ubiquiti Devices
+- ERLite-3 - EdgeRouter Lite (3-Ports)
 - ES-24-500W - EdgeSwitch PoE+ 500W (24-Ports)
 
 ### Black Box Devices
