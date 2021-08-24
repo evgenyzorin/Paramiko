@@ -8,6 +8,7 @@ Getting <b>switch</b> and <b>router</b> configuration using Paramiko:
 - System status
 - Ports status
 - VLANs status
+- ES-24-500W-Cofig - Ability to configure one or more switches 
 
 ### Ubiquiti Devices
 - ERLite-3 - EdgeRouter Lite (3-Ports)
