@@ -7,8 +7,7 @@ Getting <b>switch</b> and <b>router</b> configuration using Paramiko:
 #### Switch
 - System status
 - Ports status
-- VLANs status
-- ES-24-500W-Cofig - Ability to configure one or more switches 
+- VLANs status 
 
 ### Ubiquiti Devices
 - ERLite-3 - EdgeRouter Lite (3-Ports)
@@ -18,3 +17,7 @@ Getting <b>switch</b> and <b>router</b> configuration using Paramiko:
 - LGB1126A - Gigabit L2+ Managed Switch (26-Ports)
 - LGB1148A - Gigabit Managed Switch Eco (48-Ports)
 - LGB5124A - Gigabit Managed SFP Fibre Switch (24-Ports)
+
+### Ubiquiti ES-24-500W:
+- ES-24-500W-Show - Show System, Ports and VLANs status
+- ES-24-500W-Cofig - Ability to configure one or more switches
