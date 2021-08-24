@@ -1,0 +1,3 @@
+show version
+show interfaces status all
+show interfaces switchport general
