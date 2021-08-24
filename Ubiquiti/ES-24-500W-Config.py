@@ -66,4 +66,4 @@ def update_system(devices, username, password, enable, commands):
 if __name__ == "__main__":
     devices = get_devices(DEVICES)
     commands = get_commands(COMMANDS)
-    update_system(devices, "adminkmst", "u+b!M5-3", "u+b!M5-3", commands)
+    update_system(devices, "username", "password", "enable", commands)
