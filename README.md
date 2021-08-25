@@ -20,4 +20,4 @@ Getting <b>switch</b> and <b>router</b> configuration using Paramiko:
 
 ### Ubiquiti ES-24-500W:
 - ES-24-500W-Show - Show System, Ports and VLANs status
-- ES-24-500W-Cofig - Ability to configure one or more switches
+- ES-24-500W-Config - Ability to configure one or more switches
